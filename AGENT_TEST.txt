@@ -1,0 +1,3 @@
+Hello! The Cursor Cloud Agent is working.
+This file was created at the user's request to verify IDE connectivity.
+You can safely delete this file.
